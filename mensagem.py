@@ -1,4 +1,3 @@
 mensagem = "Hello World!"
-print("Nova funcionalidade adicionada!")
-
 print(mensagem)
+print("Nova funcionalidade adicionada!")
