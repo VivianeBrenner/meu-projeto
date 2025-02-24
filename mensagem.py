@@ -1,2 +1,2 @@
-mensagem = "Hello World! Utilizando Git no VSCode"
+mensagem = "Hello World!"
 print(mensagem)
